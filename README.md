@@ -5,6 +5,10 @@ Trois ans de développement Roblox derrière moi. Aujourd'hui je fabrique des
 compte, aucun service qui tourne en fond. Chaque projet règle un problème que
 j'ai eu pour de vrai.
 
+Tout se retrouve sur mon **[serveur Discord](https://discord.gg/3ApmxhmAhH)** :
+les nouveautés, les versions en test, et de quoi remonter un bug ou demander
+une fonctionnalité sans ouvrir d'issue.
+
 ---
 
 ### Les outils
@@ -39,4 +43,4 @@ modding Minecraft · **Lua** pour Roblox et le modding Unreal · un peu de
 Mes projets sont documentés en français : chaque README raconte le pourquoi
 d'un choix, pas seulement le comment.
 
-📍 France
+📍 France · 💬 [Rejoindre le Discord](https://discord.gg/3ApmxhmAhH)
